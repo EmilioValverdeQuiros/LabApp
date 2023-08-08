@@ -9,7 +9,7 @@ The website allows laboratories to pay a monthly fee through Paypal to post thei
 
 ## Meta
 
-Dereck Rojas Murillo – dereckrm2000@gmail.com
+Emilio Valverde Quiros – valverde.quiros.emilio.com
 
 
-[https://github.com/dereck306]
+
